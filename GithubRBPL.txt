@@ -1,1 +1,2 @@
 Hari ini saya belajar mengenai Github
+Belajar mengenai new repository, clone, commit dan push
