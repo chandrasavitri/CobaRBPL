@@ -1,1 +1,3 @@
 Hari ini saya belajar mengenai Github
+
+Tadi sudah belajar mengenai merge dan branching
